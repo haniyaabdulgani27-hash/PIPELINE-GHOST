@@ -1,7 +1,6 @@
-# PIPELINE-GHOST
 # OPERATION — PIPELINE GHOST
 
- Mission 01 — Vulnerability & Exposure Intelligence
+## Mission 01 — Vulnerability & Exposure Intelligence
 
 **Classification:** Internal Intelligence
 **Investigation Type:** Hypothetical / Controlled Scenario
@@ -11,7 +10,7 @@
 
 ---
 
- 1. Executive Summary
+## 1. Executive Summary
 
 On 07 October 2026 at approximately 09:30 IST, the organization received a threat-intelligence alert concerning suspicious activity involving its CI/CD infrastructure.
 
